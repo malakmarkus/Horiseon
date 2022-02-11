@@ -15,7 +15,7 @@ header {
     color: #ffffff;
 }
 
-header h1 {
+h1 {
     display: inline-block;
     font-size: 48px;
 }
@@ -32,11 +32,11 @@ header nav {
     font-size: 20px;
 }
 
-header nav ul {
+ul {
     list-style-type: none;
 }
 
-header nav ul li {
+li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -55,7 +55,7 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+footer h4 {
     font-size: 20px;
 }
 
@@ -78,7 +78,7 @@ p {
     margin-left: 20px;
 }
 /* main section style */
-main section {
+.main-section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -87,11 +87,11 @@ main section {
     color: #ffffff;
 }
 
-main section img {
+.main-section img {
     max-height: 200px;
 }
 
-main section h2 {
+.main-section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -117,15 +117,15 @@ main section h2 {
     background-color: #2589bd;
 }
 
-aside section {
+.benefit-section {
     margin-bottom: 32px;
     color: #ffffff;
 }
-aside section h3 {
+.benefit-section h3 {
     margin-bottom: 10px;
     text-align: center
 }
-aside section img {
+.benefit-section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
