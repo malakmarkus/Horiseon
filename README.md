@@ -10,6 +10,6 @@ By adding the accessibility features we will attract a new segment of users whic
 Starting by going over the HTML file and fixing its errors and adding the correct semantic elements and comments to make it easy to read during the future improvements, simultaneously with applying changes accordingly to the stylesheet, when the code is clean and readable it’s time to add the accessibility features we need.
 
 
-https://malakmarkus.github.io/Horiseon
-
+Deployed URL :https://malakmarkus.github.io/Horiseon
+GitHub Repo URL:https://github.com/malakmarkus/Horiseon
 ![Screenshot](https://user-images.githubusercontent.com/94266004/153690313-e8fd83ae-e87d-4e20-98f2-81b98d9012c9.png)
