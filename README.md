@@ -7,5 +7,6 @@ By adding the accessibility features we will attract a new segment of users whic
 Starting by going over the HTML file fixing its errors and adding the correct semantic elements and comments to make it easy to read during the future improvements, at the same time applying changes accordingly to the stylesheet, when the code is clean and readable it’s time to add the accessibility features we need.
 
 ! [image](/./Develop/assets/images/Screenshot%202022-02-11%2018.55.35.png)
+
 https://malakmarkus.github.io/Horiseon/
 
